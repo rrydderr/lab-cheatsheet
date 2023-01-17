@@ -7,7 +7,7 @@
 **cd ~** = change directory *and* **cd ..** = go to parent directory
 
 **rm** = remove file
-*and* **rm -r** = remove a directory
+*and* **rm -r** = remove a directory *** BUT USE WITH CAUTION***
 
 **ls** = lists current directory *and* **ls -a** shows hidden lists
 
