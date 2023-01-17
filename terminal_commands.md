@@ -32,9 +32,12 @@
 
 **cp -r** = copies the directory
 
+and Finally:
 
-
-
-
-
+***The Holy Process***
+1. Initialise folder: **git init** to create a **.git** folder which shows under **ls -a**
+2. Make changes:
+    1. **git add**
+    2. **git commit -m"message"**
+    3. **git push origin main**
 
